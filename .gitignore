@@ -1,0 +1,9 @@
+.DS_Store
+.babelrc
+.vscode/
+npm-debug.log
+main.js
+renderer.js
+build/
+node_modules/
+
